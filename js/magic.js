@@ -1,7 +1,7 @@
 
 
 var n;
-var options = ["url(/img/one.png)", 'url(/img/two.png)', 'url(/img/three.png)', 'url(/img/four.png)', 'url(/img/five.png', 'url(/img/six.png)'];
+var options = ["url(img/one.png)", 'url(img/two.png)', 'url(img/three.png)', 'url(img/four.png)', 'url(img/five.png', 'url(img/six.png)'];
 var lista = ["one","two", "three","four"];
 
 
