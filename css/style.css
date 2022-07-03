@@ -76,7 +76,7 @@ img {
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
-    background-image: url(img/panio.jpg);
+    background-image: url(.../img/panio.jpg);
     padding: 10%;
     position: relative;
 }
